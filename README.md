@@ -105,8 +105,7 @@ jupyter notebook notebook/sales_forecasting.ipynb
 This project was developed as part of my professional transition into AI Engineering,
 bringing together real-world business experience and technical AI capability.
 
-If you’re interested in collaborating or hiring for applied AI roles — feel free to connect:
-
-	•	📧 d.alejandrovelez@gmail.com
-	•	🌐 [LinkedIn](https://www.linkedin.com/in/diegoavelezm)
-	•	🧑‍💻 [GitHub](https://github.com/diegoavelez)
+If you’re interested in collaborating or hiring for applied AI roles — feel free to connect:	
+- 📧 d.alejandrovelez@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/diegoavelezm)
+- 🧑‍💻 [GitHub](https://github.com/diegoavelez)
