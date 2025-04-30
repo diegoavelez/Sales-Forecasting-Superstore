@@ -73,7 +73,7 @@ This project uses historical sales data to:
 ## 🗂️ Repository Structure
 
 ```plaintext
-demand-forecasting-ai-project/
+Sales-Forecasting-Superstore/
 ├── notebook/
 │   └── sales_forecasting.ipynb
 ├── data/
@@ -106,6 +106,7 @@ This project was developed as part of my professional transition into AI Enginee
 bringing together real-world business experience and technical AI capability.
 
 If you’re interested in collaborating or hiring for applied AI roles — feel free to connect:
+
 	•	📧 d.alejandrovelez@gmail.com
 	•	🌐 [LinkedIn](https://www.linkedin.com/in/diegoavelezm)
 	•	🧑‍💻 [GitHub](https://github.com/diegoavelez)
